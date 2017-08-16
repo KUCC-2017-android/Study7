@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">오늘 뭐 먹지?</string>
+
+    <string name="dialog_title_info">앱 정보</string>
+    <string name="dialog_message_info">KUCC 여름방학 안드로이드 스터디</string>
+
+    <string name="dialog_title_add">새 저녁 메뉴 추가</string>
+
+    <string name="add">추가하기</string>
+    <string name="close">닫기</string>
+    <string name="cancel">취소</string>
+    <string name="get_result">뽑기</string>
+    <string name="new_item_hint">새 메뉴 추가</string>
+    <string name="result_modifier">오늘의 저녁밥은</string>
+    <string name="action_add">추가</string>
+    <string name="action_info">앱 정보</string>
+</resources>
